@@ -3,16 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
             
   - title: "CV"
     url: /files/curriculum_vitae.pdf
     
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  
+#  - title: "Blog Posts"
+#    url: /year-archive/
