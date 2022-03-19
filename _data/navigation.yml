@@ -12,5 +12,8 @@ main:
   - title: "CV"
     url: /files/curriculum_vitae.pdf
     
+  - title: "About"
+    url: https://kellentan.github.io
+    
 #  - title: "Blog Posts"
 #    url: /year-archive/
