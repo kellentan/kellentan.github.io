@@ -202,19 +202,12 @@
   }
 
   .visible-links {
-    // display: table; /* DELTA */ 
-    display: -webkit-box; /* DELTA */ 
-    display: flex; /* DELTA */ 
+    display: table; /* DELTA */ 
     -webkit-box-pack: end; /* DELTA */ 
     justify-content: flex-end; /* DELTA */ 
-    -webkit-box-flex: 1; /* DELTA */ 
-    flex: 1; /* DELTA */ 
-    overflow: hidden; /* DELTA */ 
 
     li {
-      -webkit-box-flex: 0;
-       flex: none;
-      /* display: table-cell; // DELTA
+      display: table-cell;
       vertical-align: middle;
 
       &:first-child {
@@ -229,7 +222,7 @@
         a {
           margin-right: 0;
         }
-      } */
+      }
     }
 
     a {
