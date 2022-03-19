@@ -200,7 +200,16 @@
     color: #fff;
     cursor: pointer;
   }
-
+  // DELTA: Inserted &_toggle below
+  &__toggle {
+    padding: 0 0.5rem;
+    align-self: stretch;
+    border: 0;
+    outline: none;
+    color: #fff;
+    background-color: $primary-color;
+    cursor: pointer;
+  }
   .visible-links {
     display: table; /* DELTA */ 
     -webkit-box-pack: end; /* DELTA */ 
