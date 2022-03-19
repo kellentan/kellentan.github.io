@@ -11,6 +11,7 @@ redirect_from:
 I am a first year Electrical and Computer Engineering PhD student at Princeton University, advised by Prof. XXXX YYYY. Previously, I received my undergraduate at UCLA, where I worked on medical imaging and neuroscience applications of machine learning and deep learning (particularly in CT perfusion analysis) with Prof. Fabien Scalzo (now of Pepperdine University). 
 
 My research interests are broadly in the avenue of machine learning, deep learning, and AI applications, particularly in computational neuroscience, computer vision, medical imaging, or NLP (natural language processing).
+
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
