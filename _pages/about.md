@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am a first year Electrical and Computer Engineering PhD student at Princeton University, advised by Prof. XXXX YYYY. Previously, I received my undergraduate at UCLA, where I worked on medical imaging and neuroscience applications of machine learning and deep learning (particularly in CT perfusion analysis) with Prof. Fabien Scalzo (now of Pepperdine University). 
 
 My research interests are broadly in the avenue of machine learning, deep learning, and AI applications, particularly in computational neuroscience, computer vision, medical imaging, or NLP (natural language processing).
