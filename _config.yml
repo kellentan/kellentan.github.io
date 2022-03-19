@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kellen Cheng / Personal Webpage"
+title                    : "Kellen Cheng"
 title_separator          : "-"
 name                     : &name "Kellen Cheng"
 description              : &description "PhD Student"
