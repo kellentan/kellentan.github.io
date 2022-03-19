@@ -84,7 +84,7 @@
   img {
     width: 160px;
     height: 160px;
-    // border-radius: 50%;
+    border-radius: 50%;
     object-fit: cover; // New change
 
     @include breakpoint($large) {
