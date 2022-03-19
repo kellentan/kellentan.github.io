@@ -51,6 +51,7 @@
   }
 }
 
+
 /*
    Post pagination navigation links
    ========================================================================== */
@@ -120,7 +121,6 @@
   }
 
   /* next/previous buttons */
-
   &--pager {
     display: block;
     padding: 1em 2em;
@@ -167,6 +167,7 @@
   border-top: 1px solid $border-color;
 }
 
+
 /*
    Priority plus navigation
    ========================================================================== */
@@ -212,7 +213,7 @@
 
         a {
           margin-left: 0;
-        } 
+        }
       }
 
       &:last-child {
@@ -237,13 +238,13 @@
         transition: $global-transition;
         -webkit-transform: scaleX(0);
             -ms-transform: scaleX(0);
-                transform: scaleX(0); // hide
-      } 
+                transform: scaleX(0); /* hide*/
+      }
+
       &:hover:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
-                transform: scaleX(1);  
-
+                transform: scaleX(1); /* reveal*/
       }
     }
   }
@@ -307,6 +308,7 @@
   }
 }
 
+
 /*
    Navigation list
    ========================================================================== */
@@ -361,6 +363,7 @@
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
 }
+
 
 /*
    Table of contents navigation
@@ -418,7 +421,7 @@
     font-weight: normal;
   }
 
-  // hide sub sub links on small screens
+  /* hide sub sub links on small screens*/
   li > ul li {
     display: none;
 
@@ -427,4 +430,3 @@
     }
   }
 }
-
