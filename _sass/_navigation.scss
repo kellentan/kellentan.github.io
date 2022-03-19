@@ -211,7 +211,7 @@
     cursor: pointer;
   }
   .visible-links {
-    display: table; /* DELTA */ 
+    display: -webkit-box; /* DELTA table */ 
     -webkit-box-pack: end; /* DELTA */ 
     justify-content: flex-end; /* DELTA */ 
 
