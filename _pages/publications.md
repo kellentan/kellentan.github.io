@@ -13,6 +13,7 @@ author_profile: true
    ***International Symposium on Visual Computing 2021***
 
 <!--
+N.B. To force a line break, add two empty spaces at the end of a line!
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
