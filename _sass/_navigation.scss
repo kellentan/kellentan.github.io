@@ -34,7 +34,6 @@
     font-size: $type-size-6;
 
     @include breakpoint($large) {
-      float: right; /* DELTA: Added potential parameter? */
       @include span(10 of 12 last);
     }
 
@@ -203,10 +202,19 @@
   }
 
   .visible-links {
-    display: table;
+    // display: table; /* DELTA */ 
+    display: -webkit-box; /* DELTA */ 
+    display: flex; /* DELTA */ 
+    -webkit-box-pack: end; /* DELTA */ 
+    justify-content: flex-end; /* DELTA */ 
+    -webkit-box-flex: 1; /* DELTA */ 
+    flex: 1; /* DELTA */ 
+    overflow: hidden; /* DELTA */ 
 
     li {
-      display: table-cell;
+      -webkit-box-flex: 0;
+       flex: none;
+      /* display: table-cell; // DELTA
       vertical-align: middle;
 
       &:first-child {
@@ -214,14 +222,14 @@
 
         a {
           margin-left: 0;
-        }
+        } 
       }
 
       &:last-child {
         a {
           margin-right: 0;
         }
-      }
+      } */
     }
 
     a {
