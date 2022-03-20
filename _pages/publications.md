@@ -10,7 +10,7 @@ author_profile: true
 
 - <span style="color:SeaGreen">[CT Perfusion Imaging of the Brain with Machine Learning](https://link.springer.com/chapter/10.1007/978-3-030-90436-4_4)</span>  
    Kellen Cheng, Kunakorn Atchaneeyasakul, Zeid Barakat, David S. Liebeskind, Fabien Scalzo  
-   ***International Symposium on Visual Computing 2021***
+   ***International Symposium on Visual Computing 2021*** <a href="https://link.springer.com/chapter/10.1007/978-3-030-90436-4_4" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">LINK</a>
    
 
 <!--
