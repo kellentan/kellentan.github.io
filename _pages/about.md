@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming first year Electrical and Computer Engineering PhD student, most probably at Princeton University (other acceptances: Cornell University, Northwestern University). My research focus is broadly in machine learning and deep learning applications, with interests including computer vision, computational neuroscience, or NLP (natural language processing). 
+I am an incoming first year Electrical and Computer Engineering PhD student at Princeton University. My research focus is broadly in machine learning and deep learning applications, with interests including computer vision, computational neuroscience, or natural language processing. 
 
 Previously, I received my B.S. at UCLA, where I researched applications of machine learning and deep learning models on CT neurovascular perfusion. The focus was on advising preventive neuro-surgery for acute stroke patients by utilizing regression-based models and image processing techniques to perform perfusion. My work at UCLA was supervised by Prof. Fabien Scalzo (now of Pepperdine University). 
 
