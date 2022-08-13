@@ -14,7 +14,7 @@ Previously, I received my B.S. in Electrical Engineering from UCLA, where I rese
 
 In my free time, I enjoy playing strategy board and video games. I also enjoy watching television (animated cartoons and airplane documentaries), furthering my cooking skills, trying out new foods, and spending time with good friends. Recently I have gotten into card artistry and learning magic tricks.
 
-Feel free to reach out via email if you have an interesting proposal or for a collaboration. 
+Feel free to reach out via email for any potential research collaborations. 
 
 -- For a glimpse of my budding traveling adventures, check out my travelerspoint map below!
 
