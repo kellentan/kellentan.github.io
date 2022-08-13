@@ -16,6 +16,6 @@ In my free time, I enjoy playing strategy board and video games. I also enjoy wa
 
 Feel free to reach out via email for any potential research collaborations. 
 
--- For a glimpse of my budding traveling adventures, check out my travelerspoint map below!
+<!-- For a glimpse of my budding traveling adventures, check out my travelerspoint map below!
 
--- <iframe src="https://www.travellerspoint.com/embed/map.cfm/#/embed/1063649/?tiles=default&showguide=true&triponly" width="100%" height="500" style="margin-bottom:10px;border:0;"></iframe>
+<iframe src="https://www.travellerspoint.com/embed/map.cfm/#/embed/1063649/?tiles=default&showguide=true&triponly" width="100%" height="500" style="margin-bottom:10px;border:0;"></iframe> -->
