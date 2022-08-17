@@ -12,9 +12,9 @@ I am an incoming first year Electrical and Computer Engineering PhD student at P
 
 Previously, I received my B.S. in Electrical Engineering from UCLA, where I researched applications of machine learning and deep learning models on CT neurovascular perfusion. The objective was to obtain more accurate predictions to better advise preventive surgical treatments for acute stroke patients. My work at UCLA was supervised by Prof. Fabien Scalzo (now of Pepperdine University). 
 
-In my free time, I enjoy playing strategy board and video games. I also enjoy watching television (animated cartoons and airplane documentaries), furthering my cooking skills, trying out new foods, and spending time with good friends. Recently I have gotten into card artistry and learning magic tricks.
-
-Feel free to reach out via email for any potential research collaborations. 
+<!-- In my free time, I enjoy playing strategy board and video games. I also enjoy watching television (animated cartoons and airplane documentaries), furthering my cooking skills, trying out new foods, and spending time with good friends. Recently I have gotten into card artistry and learning magic tricks.
+-->
+Feel free to reach out if you are interested in my research or for a potential collaboration. 
 
 <!-- For a glimpse of my budding traveling adventures, check out my travelerspoint map below!
 
