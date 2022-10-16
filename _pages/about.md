@@ -15,7 +15,7 @@ Previously, I received my B.S. in Electrical Engineering from the University of 
 <!-- In my free time, I enjoy playing strategy board and video games. I also enjoy watching television (animated cartoons and airplane documentaries), furthering my cooking skills, trying out new foods, and spending time with good friends. Recently I have gotten into card artistry and learning magic tricks.
 -->
 
-Feel free to reach out if you are interested in my research or for a potential collaboration. 
+Feel free to reach out if you are interested in my research or a potential collaboration. 
 
 <!-- For a glimpse of my budding traveling adventures, check out my travelerspoint map below!
 
