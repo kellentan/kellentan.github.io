@@ -86,7 +86,7 @@ author:
   location         : "Princeton, NJ"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wQEE6y0AAAAJ"
-  email            : "kellentan@princeton.edu"
+  email            :  # "kellentan@princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
