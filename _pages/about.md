@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Electrical and Computer Engineering (ECE) PhD student at Princeton University. My research interests are broadly in machine learning theory and applications. 
-
-Previously, I received my B.S. in Electrical Engineering from the University of California, Los Angeles (UCLA). Under the guidance of Prof. Fabien Scalzo, I worked on machine learning applications for CT stroke perfusion treatment. I also completed an internship at PerfuseAI to extend my research findings to the healthcare industry. 
+I am a first year Electrical and Computer Engineering (ECE) PhD student at Princeton University. I am grateful to be co-advised by Prof. Pramod Viswanath and Prof. Suma Bhat. My research interests lie broadly in machine learning and natural language processing (theory/applications). 
+ 
+Previously, I received my B.S. in Electrical Engineering from the University of California, Los Angeles (UCLA), where I was fortunate to have worked under the guidance of Prof. Fabien Scalzo. My previous research entailed ML utilization for CT stroke perfusion treatment. I also completed an internship at PerfuseAI to extend my research work to the healthcare industry. 
 
 <!-- In my free time, I enjoy playing strategy board and video games. I also enjoy watching television (animated cartoons and airplane documentaries), furthering my cooking skills, trying out new foods, and spending time with good friends. Recently I have gotten into card artistry and learning magic tricks.
 -->
 
-Feel free to reach out if you are interested in my research or a potential collaboration. 
+I retain a broad interest in mathematical research fields related to computer science and electrical engineering. Feel free to reach out if you are interested in collaborating or seeking advice. 
 
 <!-- For a glimpse of my budding traveling adventures, check out my travelerspoint map below!
 
