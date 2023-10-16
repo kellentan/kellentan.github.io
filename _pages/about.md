@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Electrical and Computer Engineering (ECE) PhD student at Princeton University. I am grateful to be co-advised by Prof. Pramod Viswanath and Prof. Suma Bhat. My research interests lie broadly in machine learning and natural language processing (theory/applications). 
+I am a second year Electrical and Computer Engineering (ECE) PhD student at Princeton University. I am grateful to be co-advised by Prof. Suma Bhat and Prof. Pramod Viswanath. My research interests lie in data-driven methods for natural language processing and machine learning.
  
-Previously, I received my B.S. in Electrical Engineering from the University of California, Los Angeles (UCLA), where I was fortunate to have worked under the guidance of Prof. Fabien Scalzo. My previous research entailed ML utilization for CT stroke perfusion treatment. I also completed an internship at PerfuseAI to extend my research work to the healthcare industry. 
+Previously, I received my B.S. in Electrical Engineering from the University of California, Los Angeles (UCLA), where I was fortunate to have worked under the guidance of Prof. Fabien Scalzo. My previous research utilized machine learning for CT stroke perfusion treatment. I also completed an internship at PerfuseAI to extend my research work to the healthcare industry. 
 
 <!-- In my free time, I enjoy playing strategy board and video games. I also enjoy watching television (animated cartoons and airplane documentaries), furthering my cooking skills, trying out new foods, and spending time with good friends. Recently I have gotten into card artistry and learning magic tricks.
 -->
-
-I retain a broad interest in mathematical research fields related to computer science and electrical engineering. Feel free to reach out if you are interested in collaborating or seeking advice. 
+I retain a broad interest in mathematical research fields related to computer science and electrical engineering, and in particular machine learning and NLP. Feel free to reach out if you are interested in collaborating or seeking advice. My email tag is my first and middle name concatenated together, and my domain is princeton.edu. 
 
 <!-- For a glimpse of my budding traveling adventures, check out my travelerspoint map below!
 
