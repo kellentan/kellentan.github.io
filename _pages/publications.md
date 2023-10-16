@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 <span style="color:MidnightBlue"><b>Journal</b> </span> and <span style="color:SeaGreen"><b>Conference</b></span> papers. Note that \* signifies equal contribution.
 
--<a href="[https://arxiv.org/abs/2308.02712](https://openreview.net/forum?id=6RQTvSLbgi&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DEMNLP%2F2023%2FConference%2FAuthors%23your-submissions))" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions</a>
-   Ziheng Zeng*, Kellen Tan Cheng*, Srihari Venkat Nanniyur, Jianing Zhou, Suma Bhat
+-<a href="https://openreview.net/forum?id=6RQTvSLbgi" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions</a>
+   Ziheng Zeng\*, Kellen Tan Cheng\*, Srihari Venkat Nanniyur, Jianing Zhou, Suma Bhat
    ***Empirical Methods in Natural Language Processing 2023***
 
 - <a href="https://arxiv.org/abs/2308.02712" style="color:MidnightBlue; text-decoration: underline;text-decoration-style: dotted;">A Search for Technosignatures Around 11,680 Stars with the Green Bank Telescope at 1.15-1.73 GHz</a>
