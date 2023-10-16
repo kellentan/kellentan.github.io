@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 <span style="color:MidnightBlue"><b>Journal</b> </span> and <span style="color:SeaGreen"><b>Conference</b></span> papers. Note that \* signifies equal contribution.
 
--<a href="https://openreview.net/forum?id=6RQTvSLbgi" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions</a>
+- <a href="https://openreview.net/forum?id=6RQTvSLbgi" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions</a>
    Ziheng Zeng\*, Kellen Tan Cheng\*, Srihari Venkat Nanniyur, Jianing Zhou, Suma Bhat
    ***Empirical Methods in Natural Language Processing 2023***
 
