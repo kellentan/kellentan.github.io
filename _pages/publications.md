@@ -9,7 +9,7 @@ author_profile: true
 <span style="color:MidnightBlue"><b>Journal</b> </span> and <span style="color:SeaGreen"><b>Conference</b></span> papers. Note that \* signifies equal contribution.
 
 - <a href="https://openreview.net/forum?id=6RQTvSLbgi" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions</a>  
-   Ziheng Zeng\*, Kellen Tan Cheng\*, Srihari Venkat Nanniyur, Jianing Zhou, Suma Bhat  
+   Ziheng Zeng, Kellen Tan Cheng, Srihari Venkat Nanniyur, Jianing Zhou, Suma Bhat  
    ***Empirical Methods in Natural Language Processing 2023***
 
 - <a href="https://iopscience.iop.org/article/10.3847/1538-3881/acfda4" style="color:MidnightBlue; text-decoration: underline;text-decoration-style: dotted;">A Search for Technosignatures Around 11,680 Stars with the Green Bank Telescope at 1.15-1.73 GHz</a>  
