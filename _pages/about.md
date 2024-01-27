@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second year Electrical and Computer Engineering (ECE) PhD student at Princeton University. I am grateful to be co-advised by Prof. Suma Bhat and Prof. Pramod Viswanath. My research interests lie in data-driven methods for natural language processing and machine learning.
  
-Previously, I received my B.S. in Electrical Engineering from the University of California, Los Angeles (UCLA), where I was fortunate to have worked under the guidance of Prof. Fabien Scalzo. My previous research utilized machine learning for CT stroke perfusion treatment. I also completed an internship at PerfuseAI to extend my research work to the healthcare industry. 
+Previously, I received my B.S. in Electrical Engineering from the University of California, Los Angeles (UCLA), where I was fortunate to have worked under the guidance of Prof. Fabien Scalzo. My previous research utilized machine learning for CT stroke perfusion treatment. I also completed an internship at PerfuseAI to extend my research work to the healthcare industry. <i> N.B. I will be interning at IBM Research this upcoming Summer 2024. </i>
 
 <!-- N.B. I will be interning at IBM Research this upcoming Summer 2024.-->
 
