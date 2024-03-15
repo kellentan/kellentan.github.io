@@ -16,7 +16,7 @@ main:
     url: https://kellentan.github.io
 
   - title: "Blog"
-    url: /posts/
+    url: /_posts/
     
 #  - title: "Blog Posts"
 #    url: /year-archive/
