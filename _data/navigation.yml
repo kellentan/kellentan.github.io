@@ -15,8 +15,8 @@ main:
   - title: "About"
     url: https://kellentan.github.io
 
-  - title: "Blog"
-    url: /year-archive/
+#  - title: "Blog"
+#    url: /year-archive/
     
 #  - title: "Blog Posts"
 #    url: /year-archive/
