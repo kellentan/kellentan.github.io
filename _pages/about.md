@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Electrical and Computer Engineering (ECE) PhD student at Princeton University. My research interests lie in natural language processing, with a focus on understanding (1) how language models reason, and (2) what factors they are sensitive towards and what factors may influence hallucinations. <i> N.B. I will be in San Jose with IBM Research this summer. </i>
+I am a second year Electrical and Computer Engineering (ECE) PhD student at Princeton University. My research interests lie broadly in natural language processing and machine learning. I am particularly interested in better understanding the LLMs that become more and more widespread today. 
 
 Previously, I received my B.S. in Electrical Engineering from UCLA, where I was fortunate to be advised by Prof. Fabien Scalzo. 
+
+<i> N.B. I will be in San Jose with IBM Research this summer. </i>
 
 <!-- In my free time, I enjoy playing strategy board and video games. I also enjoy watching television (animated cartoons and airplane documentaries), furthering my cooking skills, trying out new foods, and spending time with good friends. Recently I have gotten into card artistry and learning magic tricks.
 -->
