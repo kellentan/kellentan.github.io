@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Electrical and Computer Engineering (ECE) PhD student at Princeton University. My research interests lie broadly in natural language processing and machine learning. I am particularly interested in better understanding the LLMs that become more and more widespread today. 
+I am a second year Electrical and Computer Engineering (ECE) graduate student at Princeton University. My research interests lie broadly in natural language processing and machine learning. I am particularly interested in better understanding the LLMs that become more and more widespread today. 
 
 Previously, I received my B.S. in Electrical Engineering from UCLA, where I was fortunate to be advised by Prof. Fabien Scalzo. 
 
