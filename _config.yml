@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kellen Cheng"
 title_separator          : "-"
 name                     : &name "Kellen Cheng"
-description              : &description "PhD Student"
+description              : &description "Graduate Student"
 url                      : https://kellentan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kellentan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kellen Tan Cheng"
   avatar           : "profile_picture.JPG"
-  bio              : "ECE PhD @ Princeton"
+  bio              : "Graduate Student @ Princeton"
   location         : "Princeton, NJ"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=wQEE6y0AAAAJ"
