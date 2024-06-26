@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 <span style="color:MidnightBlue"><b>Journal</b> </span> and <span style="color:SeaGreen"><b>Conference</b></span> papers. Note that \* signifies equal contribution.
 
-- <a href="[https://openreview.net/forum?id=uKNb746RRjp](https://aclanthology.org/2024.naacl-long.272/)" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">No Context Needed: Contextual Quandary in Idiomatic Reasoning with Pre-Trained Language Models</a>  
+- <a href="https://aclanthology.org/2024.naacl-long.272/" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">No Context Needed: Contextual Quandary in Idiomatic Reasoning with Pre-Trained Language Models</a>  
    <strong>Kellen Tan Cheng</strong>, Suma Bhat  
    ***North American Chapter of the Association for Computational Linguistics (NAACL) Main Conference Proceedings 2024***
 
