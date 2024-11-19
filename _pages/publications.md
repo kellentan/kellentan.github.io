@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 <span style="color:MidnightBlue"><b>Journal</b> </span> and <span style="color:SeaGreen"><b>Conference</b></span> papers. Note that \* signifies equal contribution.
 
-- <a href="https://openreview.net/forum?id=EBjcZ3aRxY#discussion" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">Don't Be My Doctor! Recognizing Healthcare Advice in Large Language Models</a>  
+- <a href="https://aclanthology.org/2024.emnlp-industry.72/" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">Don't Be My Doctor! Recognizing Healthcare Advice in Large Language Models</a>  
    <strong>Kellen Tan Cheng</strong>, Anna Lisa Gentile, Pengyuan Li, Chad DeLuca, Guang-Jie Ren  
    ***Empirical Methods in Natural Language Processing (EMNLP) Industry Track Proceedings 2024***
 
