@@ -90,8 +90,10 @@
   }
 
   img {
-    max-width: 175px;
+    width: 160px;
+    height: 160px;
     border-radius: 50%;
+    object-fit: cover; // DELTA
 
     @include breakpoint($large) {
       padding: 5px;
