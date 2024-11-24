@@ -8,9 +8,9 @@ tags:
 mathjax: true
 ---
 
-Having recently attended EMNLP 2024 (more on that in another blog post!), I ended up taking pictures of lots of interesting posters, and now I have a bunch of jumbled up lists of papers that sound interesting and would like to read further. To try and consolidate all these lists, I've decided to dedicate a blog post which will store all the research papers (almost all of these will be from EMNLP'24) that I currently have my eye on (i.e. I plan to read, but haven't gotten to them yet). This list will be continuously updated (hopefully), as I either read the papers or drop them or add new papers to the list. Maybe I'll store the really interesting papers as their own separate blog post or make a post for each particular paper that I think is interesting, who knows?
+Just a collection of potentially interesting papers that are on my reading list...
 
-Older Papers
+General Papers
 ======
 1. Charlie Snell, Dan Klein, Ruiqi Zhong, [Learning by Distilling Context](https://arxiv.org/abs/2209.15189)
 2. Alycia Lee, Brando Miranda, Sudharsan Sundar, Allison Casasola, Sanmi Koyejo, [Beyond Scale: The Diversity Coefficient as a Data Quality Metric for Variability in Natural Language Data](https://openreview.net/forum?id=tgkWxsOapD)
