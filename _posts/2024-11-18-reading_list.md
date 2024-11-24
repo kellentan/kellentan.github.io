@@ -5,6 +5,7 @@ permalink: /posts/2024-11-16/research-paper-reading-list/
 tags:
   - PhD
   - NLP
+  - Papers
 mathjax: true
 ---
 
