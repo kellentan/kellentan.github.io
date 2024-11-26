@@ -16,7 +16,7 @@ author_profile: true
    <strong>Kellen Tan Cheng</strong>, Suma Bhat  
    ***North American Chapter of the Association for Computational Linguistics (NAACL) Main Conference Proceedings 2024***
 
-- <a href="https://openreview.net/forum?id=6RQTvSLbgi" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions</a>  
+- <a href="https://aclanthology.org/2023.emnlp-main.881/" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions</a>  
    Ziheng Zeng, <strong>Kellen Tan Cheng</strong>, Srihari Venkat Nanniyur, Jianing Zhou, Suma Bhat  
    ***Empirical Methods in Natural Language Processing (EMNLP) Main Conference Proceedings 2023***
 
