@@ -1,11 +1,12 @@
 ---
 title: 'EMNLP 2024 Reflection'
 date: 2024-11-16
-permalink: # /posts/2024-11-16/EMNLP24-reflection/
+permalink: /posts/2024-11-16/EMNLP24-reflection/
 tags:
   - PhD
   - NLP
 mathjax: true
+published: false
 ---
 
 EMNLP'24 was the first conference I ever attended in-person, and it was honestly such a great experience and also a stark contrast to attending conferences virtually. I found it interesting that this was my first in-person conference attendance, given that I was presenting an industry track paper and also had previously published at both the EMNLP'23 and NAACL'24 main conferences. The free stuff they gave out at registration certainly didn't hurt either, and served as a nice little memento of my attendance. 
