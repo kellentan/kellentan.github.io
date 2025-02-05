@@ -1,7 +1,7 @@
 ---
 title: 'Research Paper Reading List'
 date: 2024-11-18
-permalink: # /posts/2024-11-16/research-paper-reading-list/
+permalink: /posts/2024-11-16/research-paper-reading-list/
 tags:
   - PhD
   - NLP
