@@ -24,9 +24,8 @@ author:
   avatar           : "profile_picture.JPG"
   name             : "Kellen Tan Cheng"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate Student @ Princeton"
+  bio              : "Graduate Student @ Princeton\Test"
   location         : "Princeton, NJ"
-  emailaddr        : "kellentan at princeton.edu"
   employer         : 
   uri              : # URL
   email            : # "kellentan (at) princeton.edu"
