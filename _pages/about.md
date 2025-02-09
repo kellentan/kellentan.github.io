@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am an Electrical and Computer Engineering (ECE) graduate student at Princeton University, working with [Dr. Suma Bhat](https://publish.illinois.edu/sumapbhat/). My research interests are broadly in NLP, and I am particularly intrigued in two general directions: (1) how can we create high-quality text data for NLP tasks while reducing reliance on manual annotation, and (2) how can we better understand and improve NLP models' reasoning capabilities? I am drawn to methods that are simple, intuitive, and easy to understand; I am also a strong proponent of open-source and reproducible research. *N.B. I will be at Samsung Research for Spring 2025, and then IBM Research for Summer 2025.*
+I am an Electrical and Computer Engineering (ECE) graduate student at Princeton University, where I collaborate with [Dr. Suma Bhat](https://publish.illinois.edu/sumapbhat/). I am interested in understanding reasoning in NLP, with a particular focus on contextual reasoning and language model hallucination. 
 
 During my time, I have been fortunate to intern at IBM Research (Summer 2024) under the mentorship of [Dr. Anna Lisa Gentile](https://anligentile.github.io/). Previously, I completed my undergraduate in Electrical Engineering at UCLA, where I was grateful to be mentored by [Prof. Fabien Scalzo](https://web.cs.ucla.edu/~fab/). During this time, I also completed an internship at PerfuseAI (Summer 2021), a health startup. 
 
-<!-- In my free time, I enjoy playing strategy board and video games. I also enjoy watching television (animated cartoons and airplane documentaries), furthering my cooking skills, trying out new foods, and spending time with good friends. Recently I have gotten into card artistry and learning magic tricks.
--->
+*Currently, I am on-leave from Princeton University. I am actively seeking research positions in either industry or academia. Please feel free to reach out if you would like to connect!*
 
-Feel free to reach out if you are interested in collaborating or mentorship. You can reach me through \[first name\]\[middle name\]@princeton.edu.
+<!-- In my free time, I enjoy playing strategy board and video games. I also enjoy watching television (animated cartoons and airplane documentaries), furthering my cooking skills, trying out new foods, and spending time with good friends. Recently I have gotten into card artistry and learning magic tricks.
+
+
+Feel free to reach out if you are interested in collaborating or mentorship. You can reach me through \[first name\]\[middle name\]@princeton.edu.-->
 
 <!-- For a glimpse of my budding traveling adventures, check out my travelerspoint map below!
 
