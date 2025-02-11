@@ -12,9 +12,9 @@ I am an Electrical and Computer Engineering (ECE) graduate student at Princeton 
 
 During my time, I have been fortunate to intern at IBM Research (Summer 2024) under the mentorship of [Dr. Anna Lisa Gentile](https://anligentile.github.io/). Previously, I completed my undergraduate in Electrical Engineering at UCLA, where I was grateful to be mentored by [Prof. Fabien Scalzo](https://web.cs.ucla.edu/~fab/). During this time, I also completed an internship at PerfuseAI (Summer 2021), a health startup. 
 
-<!-- *Currently, I am on-leave from Princeton University. I am actively seeking research positions in either industry or academia. Please feel free to reach out if you would like to connect!* -->
+<!-- *Currently, I am on-leave from Princeton University. I am actively seeking research positions in either industry or academia. Please feel free to reach out if you would like to connect!*
 
-<!-- In my free time, I enjoy playing strategy board and video games. I also enjoy watching television (animated cartoons and airplane documentaries), furthering my cooking skills, trying out new foods, and spending time with good friends. Recently I have gotten into card artistry and learning magic tricks.
+In my free time, I enjoy playing strategy board and video games. I also enjoy watching television (animated cartoons and airplane documentaries), furthering my cooking skills, trying out new foods, and spending time with good friends. Recently I have gotten into card artistry and learning magic tricks.
 
 
 Feel free to reach out if you are interested in collaborating or mentorship. You can reach me through \[first name\]\[middle name\]@princeton.edu.-->
