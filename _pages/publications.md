@@ -9,8 +9,8 @@ author_profile: true
 <span style="color:MidnightBlue"><b>Journal</b> </span> and <span style="color:SeaGreen"><b>Conference</b></span> papers. Note that \* signifies equal contribution.
 
 - <a href="https://arxiv.org/pdf/2507.21170" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">OneShield - the Next Generation of LLM Guardrails</a>  
-   Chad DeLuca, Anna Lisa Gentile, Shubhi Asthana, Bing Zhang, Pawan Chowdhary, <strong>Kellen Cheng</strong>, Basel Shbita, Pengyuan Li, Guang-Jie Ren, Sandeep Gopisetty
-  ***Preprint***
+   Chad DeLuca, Anna Lisa Gentile, Shubhi Asthana, Bing Zhang, Pawan Chowdhary, <strong>Kellen Cheng</strong>, Basel Shbita, Pengyuan Li, Guang-Jie Ren, Sandeep Gopisetty  
+   ***Preprint***
 
 - <a href="https://aclanthology.org/2024.emnlp-industry.72/" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">Don't Be My Doctor! Recognizing Healthcare Advice in Large Language Models</a>  
    <strong>Kellen Tan Cheng</strong>, Anna Lisa Gentile, Pengyuan Li, Chad DeLuca, Guang-Jie Ren  
