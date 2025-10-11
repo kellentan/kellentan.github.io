@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kellen Cheng"
 title_separator          : "-"
 name                     : &name "Kellen Cheng"
-description              : &description "Graduate Student"
+description              : &description "Applied Scientist II"
 url                      : https://kellentan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kellentan.github.io"
@@ -25,7 +25,7 @@ author:
   name             : "Kellen Tan Cheng"
   pronouns         : # example: "she/her"  
   bio              : "kellentan (at) princeton.edu" # PhD @ Princeton
-  location         : "Princeton, NJ"
+  location         : "Mountain View, CA"
   employer         : 
   uri              : # URL
   email            : # "kellentan (at) princeton.edu"
