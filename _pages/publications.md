@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 <span style="color:MidnightBlue"><b>Journal</b> </span> and <span style="color:SeaGreen"><b>Conference</b></span> papers. Note that \* signifies equal contribution. Please refer to <a href="https://scholar.google.com/citations?hl=en&user=wQEE6y0AAAAJ" style="color:DeepSkyBlue; text-decoration: underline;text-decoration-style: dotted;">Google Scholar</a> for a complete list of publications. 
 
+- <a href="https://kellentan.github.io/publications" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">STAR: Self-Automated Back-Querying for Production Data Generation</a>  
+   <strong>Kellen Tan Cheng</strong>, Anna Lisa Gentile, Chad DeLuca, Guang-Jie Ren  
+   ***To Appear at International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) Main Conference Proceedings 2025***
+
 - <a href="https://arxiv.org/pdf/2507.21170" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">OneShield - the Next Generation of LLM Guardrails</a>  
    Chad DeLuca, Anna Lisa Gentile, Shubhi Asthana, Bing Zhang, Pawan Chowdhary, <strong>Kellen Cheng</strong>, Basel Shbita, Pengyuan Li, Guang-Jie Ren, Sandeep Gopisetty  
    ***Preprint***
