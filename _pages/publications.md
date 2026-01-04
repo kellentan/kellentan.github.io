@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 <span style="color:MidnightBlue"><b>Journal</b> </span> and <span style="color:SeaGreen"><b>Conference</b></span> papers. Note that \* signifies equal contribution. Please refer to <a href="https://scholar.google.com/citations?hl=en&user=wQEE6y0AAAAJ" style="color:DeepSkyBlue; text-decoration: underline;text-decoration-style: dotted;">Google Scholar</a> for a complete list of publications. 
 
+- <a href="https://kellentan.github.io/publications" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">Compact Language Models with Iterative Text Refinement for Health Dialogue Summarization</a>  
+   <strong>Kellen Tan Cheng</strong>, Ganesh Ramesh, Nafiul Rashid, Geoffrey Jay Tso, Jilong Kuang 
+   ***To Appear at European Chapter of the Association for Computational Linguistics (EACL) Main Conference Proceedings 2026***
+
 - <a href="https://kellentan.github.io/publications" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">STAR: Self-Automated Back-Querying for Production Data Generation</a>  
    <strong>Kellen Tan Cheng</strong>, Anna Lisa Gentile, Chad DeLuca, Guang-Jie Ren  
    ***To Appear at International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) Main Conference Proceedings 2025***
