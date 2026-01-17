@@ -12,13 +12,13 @@ author_profile: true
    <strong>Kellen Tan Cheng</strong>, Ganesh Ramesh, Nafiul Rashid, Geoffrey Jay Tso, Jilong Kuang  
    ***To Appear at European Chapter of the Association for Computational Linguistics (EACL) Main Conference Proceedings 2026***
 
-- <a href="https://kellentan.github.io/publications" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">STAR: Self-Automated Back-Querying for Production Data Generation</a>  
+- <a href="https://aclanthology.org/2025.ijcnlp-long.9/" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">STAR: Self-Automated Back-Querying for Production Data Generation</a>  
    <strong>Kellen Tan Cheng</strong>, Anna Lisa Gentile, Chad DeLuca, Guang-Jie Ren  
-   ***To Appear at International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) Main Conference Proceedings 2025***
+   ***International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) Main Conference Proceedings 2025***
 
 - <a href="https://arxiv.org/pdf/2507.21170" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">OneShield - the Next Generation of LLM Guardrails</a>  
    Chad DeLuca, Anna Lisa Gentile, Shubhi Asthana, Bing Zhang, Pawan Chowdhary, <strong>Kellen Cheng</strong>, Basel Shbita, Pengyuan Li, Guang-Jie Ren, Sandeep Gopisetty  
-   ***Preprint***
+   ***ArXiV Preprint***
 
 - <a href="https://aclanthology.org/2024.emnlp-industry.72/" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">Don't Be My Doctor! Recognizing Healthcare Advice in Large Language Models</a>  
    <strong>Kellen Tan Cheng</strong>, Anna Lisa Gentile, Pengyuan Li, Chad DeLuca, Guang-Jie Ren  
