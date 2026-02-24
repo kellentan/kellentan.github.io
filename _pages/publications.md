@@ -10,27 +10,27 @@ author_profile: true
 
 - <a href="https://kellentan.github.io/publications" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">Compact Language Models with Iterative Text Refinement for Health Dialogue Summarization</a>  
    <strong>Kellen Tan Cheng</strong>, Ganesh Ramesh, Nafiul Rashid, Geoffrey Jay Tso, Jilong Kuang  
-   ***To Appear at European Chapter of the Association for Computational Linguistics (EACL) Main Conference Proceedings 2026 (Oral)***
+   ***To Appear at EACL 2026 (Oral)***
 
 - <a href="https://aclanthology.org/2025.ijcnlp-long.9/" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">STAR: Self-Automated Back-Querying for Production Data Generation</a>  
    <strong>Kellen Tan Cheng</strong>, Anna Lisa Gentile, Chad DeLuca, Guang-Jie Ren  
-   ***International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL) Main Conference Proceedings 2025***
+   ***IJCNLP-AACL 2025 Main Conference Proceedings***
 
 - <a href="https://arxiv.org/pdf/2507.21170" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">OneShield - the Next Generation of LLM Guardrails</a>  
    Chad DeLuca, Anna Lisa Gentile, Shubhi Asthana, Bing Zhang, Pawan Chowdhary, <strong>Kellen Cheng</strong>, Basel Shbita, Pengyuan Li, Guang-Jie Ren, Sandeep Gopisetty  
-   ***ArXiV Preprint***
+   ***ArXiV***
 
 - <a href="https://aclanthology.org/2024.emnlp-industry.72/" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">Don't Be My Doctor! Recognizing Healthcare Advice in Large Language Models</a>  
    <strong>Kellen Tan Cheng</strong>, Anna Lisa Gentile, Pengyuan Li, Chad DeLuca, Guang-Jie Ren  
-   ***Empirical Methods in Natural Language Processing (EMNLP) Industry Track Proceedings 2024***
+   ***EMNLP 2024 Industry Track Proceedings***
 
 - <a href="https://aclanthology.org/2024.naacl-long.272/" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">No Context Needed: Contextual Quandary in Idiomatic Reasoning with Pre-Trained Language Models</a>  
    <strong>Kellen Tan Cheng</strong>, Suma Bhat  
-   ***North American Chapter of the Association for Computational Linguistics (NAACL) Main Conference Proceedings 2024***
+   ***NAACL 2024 Main Conference Proceedings***
 
 - <a href="https://aclanthology.org/2023.emnlp-main.881/" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">IEKG: A Commonsense Knowledge Graph for Idiomatic Expressions</a>  
    Ziheng Zeng, <strong>Kellen Tan Cheng</strong>, Srihari Venkat Nanniyur, Jianing Zhou, Suma Bhat  
-   ***Empirical Methods in Natural Language Processing (EMNLP) Main Conference Proceedings 2023***
+   ***EMNLP 2023 Main Conference Proceedings***
 
 <!--
 N.B. To force a line break, add two empty spaces at the end of a line!
