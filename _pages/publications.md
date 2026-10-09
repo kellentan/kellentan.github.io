@@ -10,7 +10,7 @@ author_profile: true
 
 - <a href="https://kellentan.github.io/publications" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">Compact Language Models with Iterative Text Refinement for Health Dialogue Summarization</a>  
    <strong>Kellen Tan Cheng</strong>, Ganesh Ramesh, Nafiul Rashid, Geoffrey Jay Tso, Jilong Kuang  
-   ***To Appear at EACL 2026 (Oral)***
+   ***EACL 2026 Main Conference Proceedings (Oral)***
 
 - <a href="https://aclanthology.org/2025.ijcnlp-long.9/" style="color:SeaGreen; text-decoration: underline;text-decoration-style: dotted;">STAR: Self-Automated Back-Querying for Production Data Generation</a>  
    <strong>Kellen Tan Cheng</strong>, Anna Lisa Gentile, Chad DeLuca, Guang-Jie Ren  
