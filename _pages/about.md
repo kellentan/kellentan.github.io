@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- I am an Electrical and Computer Engineering (ECE) PhD candidate at Princeton University. My research interests are broadly in NLP; some areas I have worked on include figurative reasoning, contextual usage, synthetic data/dataset creation, and agentic frameworks. I am drawn towards simple yet effective approaches that can deepen our understanding and usage of language models.-->
 
-I am a Member of Technical Staff at Microsoft. I work on post-training and data (generation, curation, filtering) for artifact generation and editing.
+I am a Member of Technical Staff at Microsoft. I work on post-training and data (synthesis, curation, filtering) for artifact generation and editing.
 
 My research interests are broadly in post-training, data generation, and data quality. Some areas I have previously worked on include figurative language reasoning, context-aware reasoning, data synthesis, as well as multi-agent frameworks. I am drawn towards simple, effective, and reproducible approaches that can deepen our understanding and usage of language/foundation models.
 
